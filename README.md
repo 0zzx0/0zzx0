@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 0zzx0
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Robots and CV
+- 👋 Hi, I’m 0zzx0.
+- 👀 I’m interested in everything.
+- 🌱 I’m currently learning Robots and CV.
 
-<!---
+<!--- 
 ![](https://github-readme-stats.vercel.app/api?username=0zzx0&show_icons=true&theme=tokyonight&count_private=true)
 --->
 
